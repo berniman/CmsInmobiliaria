@@ -1,0 +1,98 @@
+
+
+.alta_der {
+	display: inline-block;
+	margin: 1em;
+	vertical-align: top;
+	width: 55%;
+}
+
+.alta_der textarea {
+	margin-bottom: 1em;
+	resize: none;
+	width: 100%;
+}
+
+.alta_inm {
+	margin: 1em;
+}
+
+.alta_inm label {
+	font-family: 'Calibri';
+	margin-right: 1em;
+	width: 15%;
+}
+
+.alta_prin  {
+	display: inline-block;
+	text-align: right;
+	width: 30%;
+}
+
+.eliminar_img {
+	font-family: "Calibri";
+	font-size: 0.8em;
+}
+
+.eliminar_img a {
+	color: red;
+	text-decoration: none;
+}
+
+.form_subir {
+	margin-top: 2em;
+}
+
+.icono_admin { 
+	display: inline-block;
+	width: 40%;
+
+}
+
+.icono_admin_prin {
+	margin-top: 10em;
+	text-align: center;
+}
+
+.imagen_icono {
+	width:30%;
+}
+
+.icono_nav {
+	margin: 0 1.5em;
+}
+
+.img_sub_min {
+	vertical-align: top;
+	width: 100%;
+}
+
+.intro_usuarios {
+	margin: 1em;
+	text-align: center;
+
+}
+
+.nav_cms {
+	text-align: center; 
+
+}
+
+.prev_img {
+	display: inline-block;
+	margin: 0 1em;
+	width: 10%;
+}
+
+.subir_archivo {
+	text-align: center;
+}
+
+.txa_observaciones {
+	height: 200px;
+}
+
+.zona_sel {
+	text-align: center;
+
+}
